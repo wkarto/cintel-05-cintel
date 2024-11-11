@@ -1,1 +1,7 @@
-
+shiny
+faicons
+shiny-express
+matplotlib
+scipy
+random
+datetime
